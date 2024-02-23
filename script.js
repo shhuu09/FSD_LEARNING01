@@ -4,7 +4,7 @@ console.log(a);
 let b=10.5; //float
 console.log(b);
 
-let cname= "ameer";//string
+let cname= "SHOAIB ALMEL";//string
 console.log(cname);
 
 let boolt= true, boolf= false; //boolean values
